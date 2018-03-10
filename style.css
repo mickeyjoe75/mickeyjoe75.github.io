@@ -1,0 +1,43 @@
+ body {
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  font-family: sans-serif;
+  background: #999999;
+
+}
+.container {
+  display: flex;
+}
+.nav {
+    
+  background-color: #777777;
+  width: 100%;
+  flex: 1;
+  text-align: left;
+  height: 800px;
+  padding:10px;
+}
+  
+.main {
+    
+    background: #999999;
+    margin: 400px 60px;
+    font-size:1.0rem;
+    width: 1000px;
+    height:60px;
+    text-align: justify;
+
+}
+
+.footer {
+  font-size: 0.60rem;
+  text-align: center;
+}
+
+h4 {
+    font-size: 4.60rem;
+}
+
+
