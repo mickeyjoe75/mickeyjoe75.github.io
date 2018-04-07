@@ -20,9 +20,8 @@ body {
     
   background-color: #777777;
   width: 20%;
-  flex: 1;
-  text-align: left;
-  height: 800px;
+   text-align: left;
+  height: auto;
   padding:10px;
 }
   
