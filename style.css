@@ -5,7 +5,6 @@ html {
 
  
 body {
-  height: 100%;
   margin: 0;
   text-align: center;
   width: 100%;
@@ -43,7 +42,6 @@ body {
   text-align: center;
   font-size-adjust: auto;
   font-style: italic;
-  /* padding: 20px; */
   background: #ddd;
   position: absolute;
   right: 0;
