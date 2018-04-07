@@ -4,11 +4,12 @@
   text-align: center;
   width: 100%;
   font-family: sans-serif;
-  background: #90A4AE;
+  background-color: #90A4AE;
 
 }
 .container {
-  display: flex;
+  display: flex
+  background-color: #90A4AE;
 }
 .nav {
     
