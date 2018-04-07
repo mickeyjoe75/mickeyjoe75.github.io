@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   text-align: center;
-  width: 100%;
+  width:auto;
   font-family: sans-serif;
   background-color: #90A4AE;
 
@@ -26,7 +26,7 @@ body {
 }
   
 .main {
-    
+    padding:10px;
     background: #90A4AE;
     margin: 0;
     font-size:1.0rem;
