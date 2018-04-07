@@ -1,4 +1,15 @@
- body {
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+ 
+body {
   height: 100%;
   margin: 0;
   text-align: center;
@@ -33,8 +44,17 @@
 }
 
 .footer {
-  font-size: 0.60rem;
+  font-size: 0.80rem;
   text-align: center;
+  font-size-adjust: auto;
+  font-style: italic;
+  /* padding: 20px; */
+  background: #ddd;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
 }
 
 h4 {
