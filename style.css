@@ -16,7 +16,7 @@ html {
 
 .flex-container > div {
   background-color: #aaaa;
-  margin: 10px;
+  margin: 0px;
   padding: 20px;
   font-size: 30px;
 }
@@ -31,7 +31,7 @@ body {
   background-repeat: no-repeat;
   font-family: 'Open Sans', sans-serif;
   padding: 0px;
-  margin: 80px;
+  margin: 20px;
   font color: auto;
 }
 
@@ -144,7 +144,7 @@ ul {
 }
 
 main {
-  padding: 25px;
+  padding: 0px;
 }
 
 .flex-grid {
@@ -180,4 +180,10 @@ main {
   padding: 1rem;
 }
 
+/* #github-profile iframe {
 
+  -webkit-transform:scale(0.8);
+  -moz-transform:scale(0.8);
+  -o-transform:scale(0.8);
+  -ms-transform:scale(0.8);
+} */
