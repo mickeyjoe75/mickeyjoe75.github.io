@@ -1,5 +1,6 @@
 html {
   height: 100%;
+  width: 100%;
   box-sizing: border-box;
 }
 
@@ -27,7 +28,7 @@ body {
   padding-bottom: 6rem;
   min-height: 100%;
   background-size: 100%;
-  background-color: #90A4AE;
+  background-color: #FFFFFF;
   background-repeat: no-repeat;
   font-family: 'Open Sans', sans-serif;
   padding: 0px;
@@ -163,6 +164,7 @@ main {
 }
 
 #content {
+  width: 100%;
   border-left: 1px solid darkred;
   padding-left: 25px;
 }
@@ -179,11 +181,3 @@ main {
   left: 0;
   padding: 1rem;
 }
-
-/* #github-profile iframe {
-
-  -webkit-transform:scale(0.8);
-  -moz-transform:scale(0.8);
-  -o-transform:scale(0.8);
-  -ms-transform:scale(0.8);
-} */
