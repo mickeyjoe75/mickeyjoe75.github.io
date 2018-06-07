@@ -1,0 +1,3 @@
+“Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi system/platform, off-shoring & outsourcing experience.  Joe has a proven track record in implementing and driving best in class Workforce planning applications,Telephony systems & Business Intelligence applications for blue-chip companies across Europe & Asia over a career spanning 19 years.
+
+Joe is looking forward to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Development. Joe is keen to work with a tech stack involving JavaScript, Python and Django or Flask."

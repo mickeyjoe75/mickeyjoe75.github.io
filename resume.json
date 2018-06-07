@@ -1,0 +1,251 @@
+{
+  "basics": {
+    "name": "Joseph Manuel",
+    "label": "Full Stack Software Developer & Experienced Data Analytics/Visualisation Professional",
+    "picture": "",
+    "email": "mickeyjoe75@gmail.com",
+    "phone": "+447501722850",
+    "website": "http://joemanuel.info",
+    "summary": "Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi system/platform, off-shoring & outsourcing experience.  Joe has a proven track record in implementing and driving best in class Workforce planning applications,Telephony systems & Business Intelligence applications for blue-chip companies across Europe & Asia over a career spanning 19 years.",
+    "location": {
+      "address": "Dunfermline",
+      "postalCode": "",
+      "city": "Edinburgh",
+      "countryCode": "UK",
+      "region": "Scotland"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mickeyjoe75",
+        "url": "https://profile-summary-for-github.com/user/mickeyjoe75"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mjmconsultinc",
+        "url": "https://www.linkedin.com/in/mjmconsultinc/"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "9473322",
+        "url": "https://stackoverflow.com/users/story/9473322"
+      },
+      {
+        "network": "Twitter",
+        "username": "@MjMSquawk",
+        "url": "https://stocktwits.com/MjMSquawk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CodeClan",
+      "position": "Trainee Full Stack Software Developer",
+      "website": "https://codeclan.com/",
+      "startDate": "2018-03-05",
+      "endDate": "2018-06-22",
+      "summary": "A 16 week Full Stack Software Development Bootcamp with a curriculum that is  project-based and includes:   • Version control via Git and GitHub • Object Oriented Programming (Ruby, Java, Javascript) • TDD in Ruby with MiniTest, in Java using JUnit and Mockito, and in JavaScript using Mocha • Web app development with Sinatra, Express and React • HTML and CSS • Database design with PostgreSQL and MongoDB • Use of Ajax and Document Object Model manipulation • A teaching environment comprised of agile methodologies in 3-week learning blocks, 1-week project sprints and daily morning scrums.   The CodeClan four-month intensive course is SQA approved and awards a PDA in Software Development (SCQF level 8).",
+      "highlights": [
+        "A web application \"ProActiveWFM\" using Ruby on Rails and CRUD and RESTful methods",
+        "A vanilla JavaScript Full Stack Web app group project \"Education App\" with no frameworks and utilising NPM packages,Webpack,NodeJs,MongoDB & Express",
+        "An Android todo list app \"proActiveScheduler\" "
+      ]
+    },
+    {
+      "company": "IP Integration Ltd",
+      "position": "Senior Consultant - Operations Planning and Analytics",
+      "website": "https://www.ipintegration.com/",
+      "startDate": "2015/10/01",
+      "endDate": "2018/03/01",
+      "summary": "Managed Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis in the project as there were numerous 'As-Is' and 'To-Be' conditions. Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Intraday Task Management : Interaction Analytics:-Speech, text and social media analytics can connect the customer journey and provide actionable insight.",
+      "highlights": []
+    },
+    {
+      "company": "Numero Uno Apps Development Ltd. & SMJ Business Services Ltd. ",
+      "position": "Founder & Managing Director",
+      "website": "http://numerounoapps.com/",
+      "startDate": "2014/07/01",
+      "endDate": "",
+      "summary": "Strategic Consulting in Business Intelligence (Tableau,SQL)& MIS |Website Hosting&Development| Mobile Apps Development||Bid/Price Modelling for BPO/Outsourcing Contracts|| Resource/Capacity Planning||Advanced Excel Modelling|| WFM Optimisation(Verint)|| Shift/Staffing Reviews/Optimisation||Dialler/Data Strategy|| Project Management.",
+      "highlights": []
+    },
+    {
+      "company": "Portsmouth Health Limited, benenden group",
+      "position": "Interim BI & WFM Consultant",
+      "website": "http://www.phlgroup.co.uk/, https://www.benenden.co.uk/",
+      "startDate": "2014/08/01",
+      "endDate": "2015/10/01",
+      "summary": "Set up MI and Planning department for an NHS contractor providing Out of Hours GP cover service. WFM tools and practices optimisation: Built a Capacity and Resource plan for the Benenden Healthcare Member services through Advanced Excel templates and optimizing the use of Verint Impact 360 Ver.11 system and Speech Analytics and Avaya AACC platform. Training and developing the onsite resources and build a business case for WFM department.",
+      "highlights": []
+    },
+    {
+      "company": "Thames Water",
+      "position": "Senior Manager - BI, WFM & Special Projects",
+      "website": "https://www.thameswater.co.uk/",
+      "startDate": "2012/10/01",
+      "endDate": "2014/07/01",
+      "summary": "Lead the Business Intelligence, WFM and Real Time Command Center for Thames Water Customer Services, business lead role in CS Change and Transformation projects , leading a multi site, multi discipline team for the Thames Water utilities",
+      "highlights": [
+        "Opex savings of £2M in Contact Centre budget in the 2013/14 FY through optimised resource plans and improved forecast process for Billing and Operations Contact Centres",
+        "Introduction and set up of a Business Intelligence team for Customer Services by migration of MS ACCESS and VBA based reporting into an SQL reporting Server."
+      ]
+    },
+    {
+      "company": "Ember Services",
+      "position": "Management Consultant (Freelance)",
+      "website": "http://www.embergroup.co.uk/",
+      "startDate": "2011/10/01",
+      "endDate": "2012/10/01",
+      "summary": "Business Intelligence and Analytics,SQL query, SAP Business Objects and Excel VBA expertise Automation and design of Reports / Dashboards and KPI definition for major blue-chip UK companies,Set up and off-shoring of MI function",
+      "highlights": []
+    },
+    {
+      "company": "HCL Technologies",
+      "position": "Head of Operational Support",
+      "website": "https://www.hcltech.com/",
+      "startDate": "2006/11/01",
+      "endDate": "2011/10/01",
+      "summary": "Member of the Senior Mgmt team and Business Steering Group, Directly responsible and heading the Strategic Capacity & Resource Planning,Dialler Management and Reporting and Management Information functions for HCL Northern Ireland across both sites in Belfast and Armagh with 2000+ employees Expertise on Business Analytics and Six Sigma methodology",
+      "highlights": []
+    },
+    {
+      "company": "Various Roles",
+      "position": "Finance,Sales & Customer Service Roles",
+      "website": "https://www.ibm.com, http://www.vertexgroupindia.com, http://www.fulfordindia.com/",
+      "startDate": "1998/02/01",
+      "endDate": "2006/11/01",
+      "summary": "Various roles in Finance, Marketing, Sales and Customer Service in India spanning over 8 years, included transitioning business process from US for Sprint PCS Customer Services",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "CodeClan",
+      "area": "Information Technology",
+      "studyType": "Software Bootcamp",
+      "startDate": "2018-03-05",
+      "endDate": "2018-06-22",
+      "gpa": "SCQF level 8",
+      "courses": [
+        "Object Oriented Programming (Ruby, Java, Javascript)",
+        "TDD, Full Stack Web app development"
+      ]
+    },
+    {
+      "institution": "University of Ulster",
+      "area": "Advanced Diploma in Management Practice",
+      "studyType": "",
+      "startDate": "2010",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": [
+        "One week Induction in the Boston Business School, MA"
+      ]
+    },
+    {
+      "institution": "Mahatma Gandhi University",
+      "area": "Bachelor of Science(Hons)",
+      "studyType": "",
+      "startDate": "1995",
+      "endDate": "1998",
+      "gpa": "",
+      "courses": [
+        "Maths",
+        "Chemistry",
+        "Physics",
+        "English"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "level": "Advanced",
+      "keywords": [
+        "Tableau",
+        "T-SQL",
+        "R",
+        "Verint WFM",
+        "Avaya",
+        "PowerBI"
+      ]
+    },
+    {
+      "name": "Front End Development",
+      "level": "Intermediate",
+      "keywords": [
+        "javascript",
+        "html",
+        "css",
+        "bootstrap",
+        "jQuery",
+        "Sass"
+      ]
+    },
+    {
+      "name": "Back End Development",
+      "level": "Intermediate",
+      "keywords": [
+        "python",
+        "java",
+        "ruby",
+        "go"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "PostgreSQL",
+        "MS sql server",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "TDD & Frameworks",
+      "level": "Intermediate",
+      "keywords": [
+        "MiniTest",
+        "JUnit",
+        "Mocha",
+        "chrome dev tools",
+        "React and React native",
+        "Redux",
+        "Express",
+        "Sinatra",
+        "Django",
+        "flask"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Android",
+        "kotlin",
+        "flutter",
+        "xamarin"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Hindi, Urdu, Malayalam, Tamil, Punjabi",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Swimming, Badminton",
+      "keywords": []
+    },
+    {
+      "name": "Stock Market, Chess",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
