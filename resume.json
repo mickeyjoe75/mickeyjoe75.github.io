@@ -6,7 +6,7 @@
     "email": "mickeyjoe75@gmail.com",
     "phone": "+447501722850",
     "website": "http://joemanuel.info",
-    "summary": "Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi system/platform, off-shoring & outsourcing experience.  Joe has a proven track record in implementing and driving best in class Workforce planning applications,Telephony systems & Business Intelligence applications for blue-chip companies across Europe & Asia over a career spanning 19 years.",
+    "summary": "Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi system/platform, off-shoring & outsourcing experience.  Joe has a proven track record in implementing and driving best in class Workforce planning applications,Telephony systems & Business Intelligence applications for blue-chip companies across Europe & Asia over a career spanning 19 years.\n Joe is keen to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Software Development.",
     "location": {
       "address": "Dunfermline",
       "postalCode": "",
@@ -57,7 +57,7 @@
       "website": "https://www.ipintegration.com/",
       "startDate": "2015/10/01",
       "endDate": "2018/03/01",
-      "summary": "Managed-Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis in the project as there were numerous 'As-Is' and 'To-Be' conditions. Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Intraday Task Management : Interaction Analytics:-Speech, text and social media analytics can connect the customer journey and provide actionable insight.",
+      "summary": "Managed-Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis and requirement gathering in various projects. Built, published and customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Interaction Analytics:- Actionable insight through speech, text and social media analytics.",
       "highlights": []
     },
     {
@@ -66,7 +66,7 @@
       "website": "http://numerounoapps.com/",
       "startDate": "2014/07/01",
       "endDate": "",
-      "summary": "Strategic Consulting in Business Intelligence (Tableau,SQL)& MIS |Website Hosting&Development| Mobile Apps Development||Bid/Price Modelling for BPO/Outsourcing Contracts|| Resource/Capacity Planning||Advanced Excel Modelling|| WFM Optimisation(Verint)|| Shift/Staffing Reviews/Optimisation||Dialler/Data Strategy|| Project Management.",
+      "summary": "Strategic Consulting in Business Intelligence (Tableau,SQL)& MIS |Website Hosting&Development| Mobile Apps Development|| Resource/Capacity Planning||Advanced Excel Modelling|| WFM Optimisation(Verint)|| Shift/Staffing Reviews/Optimisation||Dialler/Data Strategy|| Project Management.",
       "highlights": []
     },
     {
@@ -75,7 +75,7 @@
       "website": "http://www.phlgroup.co.uk/, https://www.benenden.co.uk/",
       "startDate": "2014/08/01",
       "endDate": "2015/10/01",
-      "summary": "Set up MI and Planning department for an NHS contractor providing Out of Hours GP cover service. WFM tools and practices optimisation: Built a Capacity and Resource plan for the Benenden Healthcare Member services through Advanced Excel templates and optimizing the use of Verint Impact 360 Ver.11 system and Speech Analytics and Avaya AACC platform. Training and developing the onsite resources and build a business case for WFM department.",
+      "summary": "Set up MI and Planning department for an NHS contractor providing Out of Hours GP cover service. WFM tools and practices optimisation: Built a Capacity and Resource plan for the Benenden Healthcare Member services through Advanced Excel templates and optimizing the use of Verint Impact 360 Ver.11 system and Speech Analytics and Avaya AACC platform. Training and developing the onsite resources and built a business case for WFM department.",
       "highlights": []
     },
     {
@@ -84,10 +84,10 @@
       "website": "https://www.thameswater.co.uk/",
       "startDate": "2012/10/01",
       "endDate": "2014/07/01",
-      "summary": "Lead the Business Intelligence, WFM and Real Time Command Center for Thames Water Customer Services, business lead role in CS Change and Transformation projects , leading a multi site, multi discipline team for the Thames Water utilities",
+      "summary": "Lead the Business Intelligence, WFM and Real Time Command Center for Thames Water Customer Services, business lead role in CS Change and Transformation projects , managed a multi site, multi discipline team for the Thames Water utilities",
       "highlights": [
         "Opex savings of £2M in Contact Centre budget in the 2013/14 FY through optimised resource plans and improved forecast process for Billing and Operations Contact Centres",
-        "Introduction and set up of a Business Intelligence team for Customer Services by migration of MS ACCESS and VBA based reporting into an SQL reporting Server."
+        "Introduction and set up of a Business Intelligence team for Customer Services by migration of MS ACCESS and VBA based reporting into an MS SQL reporting Server."
       ]
     },
     {
@@ -105,7 +105,7 @@
       "website": "https://www.hcltech.com/",
       "startDate": "2006/11/01",
       "endDate": "2011/10/01",
-      "summary": "Member of the Senior Mgmt team and Business Steering Group, Directly responsible and heading the Strategic Capacity & Resource Planning,Dialler Management and Reporting and Management Information functions for HCL Northern Ireland across both sites in Belfast and Armagh with 2000+ employees Expertise on Business Analytics and Six Sigma methodology",
+      "summary": "Member of the Senior Mgmt team and Business Steering Group, directly responsible and heading the Strategic Capacity & Resource Planning,Dialler Management and Reporting and Management Information functions for HCL Northern Ireland across 2 sites in Belfast and Armagh with 2000+ employees Expertise on Business Analytics and Six Sigma methodology",
       "highlights": []
     },
     {
@@ -122,11 +122,11 @@
   "education": [
     {
       "institution": "CodeClan, Edinburgh(UK)",
-      "area": "Information Technology",
+      "area": "SCQF level 8",
       "studyType": "Software Bootcamp",
       "startDate": "2018-03-05",
       "endDate": "2018-06-22",
-      "gpa": "SCQF level 8",
+      "gpa": "",
       "courses": [
         "Object Oriented Programming (Ruby, Java, Javascript)",
         "TDD, Full Stack Web app development"
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "institution": "Mahatma Gandhi University, Kottayam(India)",
+      "institution": "M.G University, Kottayam(India)",
       "area": "Bachelor of Science(Hons)",
       "studyType": "",
       "startDate": "1995",
@@ -215,9 +215,9 @@
         "React and React native",
         "Redux",
         "Express",
-        "Sinatra",
+        "Ruby on Rails",
         "Django",
-        "flask"
+        "git & github"
       ]
     },
     {
@@ -243,7 +243,7 @@
       "keywords": []
     },
     {
-      "name": "Stock Market, Chess",
+      "name": "Stock Market, Cars",
       "keywords": []
     }
   ],
