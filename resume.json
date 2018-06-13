@@ -6,7 +6,7 @@
     "email": "mickeyjoe75@gmail.com",
     "phone": "+447501722850",
     "website": "http://joemanuel.info",
-    "summary": "Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi system/platform, off-shoring & outsourcing experience.  Joe has a proven track record in implementing and driving best in class Workforce planning applications,Telephony systems & Business Intelligence applications for blue-chip companies across Europe & Asia over a career spanning 19 years.\n Joe is keen to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Software Development.",
+    "summary": "Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi platform, off-shoring & outsourcing experience.  Proven track record in implementing and driving best in class Business Intelligence applications,  Workforce planning applications & Telephony systems for blue-chip companies across Europe & Asia over a career spanning 19 years.\n He is keen to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Software Development.",
     "location": {
       "address": "Dunfermline",
       "postalCode": "",
@@ -62,7 +62,7 @@
       "website": "https://www.ipintegration.com/",
       "startDate": "2015/10/01",
       "endDate": "2018/03/01",
-      "summary": "Managed-Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis and requirement gathering in various projects. Built, published and customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Interaction Analytics:- Actionable insight through speech, text and social media analytics.",
+      "summary": "Managed-Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis and requirement gathering in various projects. Built, published & customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Interaction Analytics:- Actionable insight through speech, text and social media analytics.",
       "highlights": []
     },
     {
@@ -71,7 +71,7 @@
       "website": "http://numerounoapps.com/",
       "startDate": "2014/07/01",
       "endDate": "",
-      "summary": "Strategic Consulting in Business Intelligence (Tableau,SQL)& MIS |Website Hosting&Development| Mobile Apps Development|| Resource/Capacity Planning||Advanced Excel Modelling|| WFM Optimisation(Verint)|| Shift/Staffing Reviews/Optimisation||Dialler/Data Strategy|| Project Management.",
+      "summary": "Strategic Consulting in Business Intelligence (Tableau,SQL)& MIS, Website Hosting&Development, Mobile Apps Development, Resource/Capacity Planning, Advanced Excel Modelling, WFM Optimisation(Verint), Shift/Staffing Reviews/Optimisation, Dialler/Data Strategy, Project Management.",
       "highlights": []
     },
     {
@@ -89,7 +89,7 @@
       "website": "https://www.thameswater.co.uk/",
       "startDate": "2012/10/01",
       "endDate": "2014/07/01",
-      "summary": "Lead the Business Intelligence, WFM and Real Time Command Center for Thames Water Customer Services, business lead role in CS Change and Transformation projects , managed a multi site, multi discipline team for the Thames Water utilities",
+      "summary": "Lead the Business Intelligence, WFM and Real Time Command Center for Thames Water Customer Services, business lead role in CS Change and Transformation projects, managed a multi site, multi discipline team for the Thames Water utilities",
       "highlights": [
         "Opex savings of £2M in Contact Centre budget in the 2013/14 FY through optimised resource plans and improved forecast process for Billing and Operations Contact Centres",
         "Introduction and set up of a Business Intelligence team for Customer Services by migration of MS ACCESS and VBA based reporting into an MS SQL reporting Server."
@@ -205,8 +205,10 @@
       "level": "Advanced",
       "keywords": [
         "PostgreSQL",
-        "MS sql server",
-        "MongoDB"
+        "MongoDB",
+        "SQLite",
+        "MS sql server"
+
       ]
     },
     {
@@ -217,8 +219,7 @@
         "JUnit",
         "Mocha",
         "chrome dev tools",
-        "React and React native",
-        "Redux",
+        "React & Redux",
         "Express",
         "Ruby on Rails",
         "Django",
@@ -232,7 +233,7 @@
         "Android",
         "kotlin",
         "flutter",
-        "xamarin"
+        "React native"
       ]
     }
   ],
