@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Joseph Manuel",
-    "label": "Full Stack Software Developer & Experienced Data Analytics/Visualisation Professional",
+    "label": "Experienced Data Analytics/Visualisation Professional & Full Stack Software Developer",
     "picture": "",
     "email": "mickeyjoe75@gmail.com",
     "phone": "+447501722850",
     "website": "http://joemanuel.info",
-    "summary": "Joe is a highly driven Full Stack Software Developer and globally experienced Management Consultant  with extensive multi site, multi platform, off-shoring & outsourcing experience.  Proven track record in implementing and driving best in class Business Intelligence applications,  Workforce planning applications & Telephony systems for blue-chip companies across Europe & Asia over a career spanning 19 years.\n He is keen to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Software Development.",
+    "summary": "Joe is a globally experienced Management Consultant with expertise in Data Analytics and Data Visualisation and a highly driven Full Stack Software Developer with extensive multi site, multi platform, off-shoring & outsourcing experience.  Proven track record in implementing and driving best in class Business Intelligence applications,  Workforce planning applications & Telephony systems for blue-chip companies across Europe & Asia over a career spanning 19 years.\n He is keen to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Software Development.",
     "location": {
       "address": "Dunfermline",
       "postalCode": "",
@@ -48,19 +48,6 @@
     ]
   },
   "work": [
-    {
-      "company": "CodeClan",
-      "position": "Trainee Full Stack Software Developer",
-      "website": "https://codeclan.com/",
-      "startDate": "2018-03-05",
-      "endDate": "2018-06-22",
-      "summary": "A 16 week Full Stack Software Development Bootcamp with a curriculum that is  project-based and includes:   • Version control via Git and GitHub • Object Oriented Programming (Ruby, Java, Javascript) • TDD in Ruby with MiniTest, in Java using JUnit and Mockito, and in JavaScript using Mocha • Web app development with Sinatra, Express and React • HTML and CSS • Database design with PostgreSQL and MongoDB • Use of Ajax and Document Object Model manipulation • A teaching environment comprised of agile methodologies in 3-week learning blocks, 1-week project sprints and daily morning scrums.   The CodeClan four-month intensive course is SQA approved and awards a PDA in Software Development (SCQF level 8).",
-      "highlights": [
-        "A web application \"ProActiveWFM\" using Ruby on Rails and CRUD and RESTful methods",
-        "A vanilla JavaScript Full Stack Web app group project \"Education App\" with no frameworks and utilising NPM packages,Webpack,NodeJs,MongoDB & Express",
-        "An Android todo list app \"proActiveScheduler\" "
-      ]
-    },
     {
       "company": "IP Integration Ltd",
       "position": "Senior Consultant - Operations Planning and Analytics",
@@ -126,6 +113,19 @@
       "endDate": "2006/11/01",
       "summary": "Various roles in Finance, Marketing, Sales and Customer Service in India spanning over 8 years, included transitioning business process from US for Sprint PCS Customer Services",
       "highlights": []
+    },
+    {
+      "company": "CodeClan",
+      "position": "Trainee Full Stack Software Developer",
+      "website": "https://codeclan.com/",
+      "startDate": "2018-03-05",
+      "endDate": "2018-06-22",
+      "summary": "A 16 week Full Stack Software Development Bootcamp with a curriculum that is  project-based and includes:   • Version control via Git and GitHub • Object Oriented Programming (Ruby, Java, Javascript) • TDD in Ruby with MiniTest, in Java using JUnit and Mockito, and in JavaScript using Mocha • Web app development with Sinatra, Express and React • HTML and CSS • Database design with PostgreSQL and MongoDB • Use of Ajax and Document Object Model manipulation • A teaching environment comprised of agile methodologies in 3-week learning blocks, 1-week project sprints and daily morning scrums.   The CodeClan four-month intensive course is SQA approved and awards a PDA in Software Development (SCQF level 8).",
+      "highlights": [
+        "A web application \"ProActiveWFM\" using Ruby on Rails and CRUD and RESTful methods",
+        "A vanilla JavaScript Full Stack Web app group project \"Education App\" with no frameworks and utilising NPM packages,Webpack,NodeJs,MongoDB & Express",
+        "An Android todo list app \"proActiveScheduler\" "
+      ]
     }
   ],
   "volunteer": [],
@@ -173,7 +173,7 @@
   "skills": [
     {
       "name": "Data Analysis",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "Tableau",
         "PowerBI",
@@ -185,7 +185,7 @@
         "Excel-VBA",
         "TensorFlow",
         "D3.js",
-        "ChartJS",
+        "ChartJs",
         "HighCharts"
       ]
     },
@@ -208,20 +208,17 @@
         "python",
         "java",
         "ruby",
-        "go",
-        "Node.Js",
-        "Express.Js"
+        "go"
       ]
     },
     {
       "name": "Databases",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "PostgreSQL",
         "MongoDB",
         "SQLite",
         "MS sql server"
-
       ]
     },
     {
@@ -258,7 +255,11 @@
   ],
   "interests": [
     {
-      "name": "Swimming, Badminton, Stock Market, Cars",
+      "name": "Swimming, Badminton",
+      "keywords": []
+    },
+    {
+      "name": "Stock Market, Cars",
       "keywords": []
     }
   ],
