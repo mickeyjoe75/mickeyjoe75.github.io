@@ -33,7 +33,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   padding: 0px;
   margin: 20px;
-  font color: auto;
+  color: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -123,7 +123,8 @@ a, a:link, a:visited {
 }
 
 a:hover, a:active, a:focus {
-  color: #c6e2ff;
+  color: #e25909;
+  font-size: 110%
 }
 
 nav {
@@ -135,7 +136,6 @@ nav {
 nav ul li {
   margin-bottom: 8px;
   text-transform: uppercase;
-  color: black
 }
 
 ul {
