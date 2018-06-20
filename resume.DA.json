@@ -116,7 +116,7 @@
     },
     {
       "company": "CodeClan",
-      "position": "Trainee Full Stack Software Developer",
+      "position": "Full Stack Software Developer",
       "website": "https://codeclan.com/",
       "startDate": "2018-03-05",
       "endDate": "2018-06-22",
@@ -255,11 +255,7 @@
   ],
   "interests": [
     {
-      "name": "Swimming, Badminton",
-      "keywords": []
-    },
-    {
-      "name": "Stock Market, Cars",
+      "name": "Swimming, Badminton, Stock Market, Cars",
       "keywords": []
     }
   ],

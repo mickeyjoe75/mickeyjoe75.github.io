@@ -49,8 +49,17 @@
   },
   "work": [
     {
+      "company": "IP Integration Ltd",
+      "position": "Senior Consultant - Operations Planning and Analytics",
+      "website": "https://www.ipintegration.com/",
+      "startDate": "2015/10/01",
+      "endDate": "2018/03/01",
+      "summary": "Managed-Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis and requirement gathering in various projects. Built, published & customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Interaction Analytics:- Actionable insight through speech, text and social media analytics.",
+      "highlights": []
+    },
+    {
       "company": "CodeClan",
-      "position": "Trainee Full Stack Software Developer",
+      "position": "Full Stack Software Developer",
       "website": "https://codeclan.com/",
       "startDate": "2018-03-05",
       "endDate": "2018-06-22",
@@ -61,16 +70,7 @@
         "An Android todo list app \"proActiveScheduler\" "
       ]
     },
-    {
-      "company": "IP Integration Ltd",
-      "position": "Senior Consultant - Operations Planning and Analytics",
-      "website": "https://www.ipintegration.com/",
-      "startDate": "2015/10/01",
-      "endDate": "2018/03/01",
-      "summary": "Managed-Analytics for clients using Tableau platform, well versed with Tableau Desktop, Tableau server and Tableau online. Performed extensive GAP analysis and requirement gathering in various projects. Built, published & customized interactive reports and dashboards, report scheduling using Tableau server. Created action filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.Interaction Analytics:- Actionable insight through speech, text and social media analytics.",
-      "highlights": []
-    },
-    {
+        {
       "company": "Numero Uno Apps Development Ltd. & SMJ Business Services Ltd. ",
       "position": "Founder & Managing Director",
       "website": "http://numerounoapps.com/",
