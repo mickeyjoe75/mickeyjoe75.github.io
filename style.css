@@ -31,7 +31,7 @@ body {
   background-color: #FFFFFF;
   background-repeat: no-repeat;
   font-family: 'Open Sans', sans-serif;
-  padding: 0px;
+  padding: 20px;
   margin: 20px;
   color: auto;
 }
@@ -169,6 +169,11 @@ main {
   border-left: 1px solid darkred;
   padding-left: 25px;
 }
+#content-BI {
+  width: 100%;
+  padding-left: 25px;
+}
+
 
 .footer {
   font-size: 0.80rem;
