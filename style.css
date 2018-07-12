@@ -20,6 +20,7 @@ html {
   padding: 20px;
   font-size: 30px;
 }
+
 .navbar {
   position: fixed;
   margin: 0;
@@ -31,6 +32,7 @@ html {
   width: 100%;
   padding-top: 125px;
 }
+
 nav ul {
   text-align: left;
   position: fixed;
@@ -39,7 +41,7 @@ nav ul {
   width: 100%;
   background-color: lightgray;
   height: auto;
-  margin:0;
+  margin: 0;
   padding: 0;
 }
 
@@ -54,7 +56,7 @@ nav ul li {
 nav ul li a {
   color: #008080;
   text-decoration: none;
- }
+}
 
 body {
   position: relative;
@@ -180,6 +182,7 @@ a:focus {
   margin-bottom: 8px;
   text-transform: uppercase;
 } */
+
 /* 
 ul {
   padding: 0px;
@@ -207,8 +210,6 @@ main {
   flex-direction: row;
 }
 
-
-
 #content-BI {
   width: 100%;
   padding-left: 25px;
@@ -235,10 +236,11 @@ main {
     margin: 10px;
     display: inline-block;
     padding: 0;
-          }
-  /* .project {
-    margin: 40px 0;
-  } */
+  }
+  #content {
+    padding-top: 175px;
+  }
+
 }
 
 /* @media screen and (max-width: 600px) {
