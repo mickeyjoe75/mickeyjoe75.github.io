@@ -1,7 +1,6 @@
 html {
   height: 100%;
   width: 100%;
-  box-sizing: border-box;
 }
 
 *,
@@ -12,16 +11,35 @@ html {
 
 .flex-container {
   display: flex;
-  background-color:  #ffff;
+  background-color: #ffff;
 }
 
-.flex-container > div {
+.flex-container>div {
   background-color: #aaaa;
   margin: 0px;
   padding: 20px;
   font-size: 30px;
 }
 
+nav ul {
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  background-color: lightgray;
+  height: auto;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+
+nav ul li a {
+  color: #008080;
+  text-decoration: none;
+}
 
 body {
   position: relative;
@@ -31,22 +49,31 @@ body {
   background-color: #FFFFFF;
   background-repeat: no-repeat;
   font-family: 'Open Sans', sans-serif;
-  padding: 20px;
-  margin: 20px;
+  padding: 0px;
+  margin: 0px;
   color: auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
+img {
+  height: 60px;
+  width: 60px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: 'Open Sans', sans-serif;
   margin: 0px;
   padding: 0px;
   color: #757575;
 }
 
-
 h1 {
   font-size: 2.0em;
-  color: #000000;
+  color: white;
   margin-bottom: 20px;
   font-size-adjust: auto;
   font-style: italic;
@@ -113,16 +140,17 @@ h8 {
   text-align: left;
 }
 
-
-
-
-a, a:link, a:visited {
+a,
+a:link,
+a:visited {
   color: black;
-  text-decoration:  underline;
+  text-decoration: underline;
   font-size: 1em;
 }
 
-a:hover, a:active, a:focus {
+a:hover,
+a:active,
+a:focus {
   color: #e25909;
   font-size: 110%
 }
@@ -151,6 +179,7 @@ main {
 .flex-grid {
   display: flex;
 }
+
 .col {
   flex: 1;
 }
@@ -163,17 +192,14 @@ main {
   flex-direction: row;
 }
 
-
 #content {
   width: 100%;
-  border-left: 1px solid darkred;
-  padding-left: 25px;
 }
+
 #content-BI {
   width: 100%;
   padding-left: 25px;
 }
-
 
 .footer {
   font-size: 0.80rem;
@@ -186,4 +212,22 @@ main {
   bottom: 0;
   left: 0;
   padding: 1rem;
+}
+
+@media only screen and (max-width: 500px) {
+  nav ul {
+    text-align: center;
+  }
+  nav ul li {
+    margin: 20px;
+  }
+  .project {
+    margin: 40px 0;
+  }
+}
+
+.cv {
+  height: 100vh;
+  padding: 50px;
+  /* position: reltive; */
 }
