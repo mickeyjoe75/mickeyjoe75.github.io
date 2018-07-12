@@ -24,20 +24,23 @@ html {
   position: fixed;
   margin: 0;
   padding: 0;
+  display: flex;
 }
 
 #content {
   width: 100%;
-  padding: 125px;
+  padding-top: 125px;
 }
 nav ul {
   text-align: left;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
   background-color: lightgray;
   height: auto;
   margin:0;
+  padding: 0;
 }
 
 nav ul li {
@@ -61,7 +64,7 @@ body {
   background-color: #FFFFFF;
   background-repeat: no-repeat;
   font-family: 'Open Sans', sans-serif;
-  padding: 0px;
+  padding: 10px;
   margin: 0px;
   color: auto;
 }
@@ -156,7 +159,7 @@ a,
 a:link,
 a:visited {
   color: black;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   font-size: 1em;
 }
 
@@ -229,11 +232,13 @@ main {
     text-align: center;
   }
   nav ul li {
-    margin: 20px;
-  }
-  .project {
+    margin: 10px;
+    display: inline-block;
+    padding: 0;
+          }
+  /* .project {
     margin: 40px 0;
-  }
+  } */
 }
 
 /* @media screen and (max-width: 600px) {
