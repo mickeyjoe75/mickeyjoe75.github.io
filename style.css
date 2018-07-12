@@ -3,11 +3,11 @@ html {
   width: 100%;
 }
 
-*,
+/* *,
 *:before,
 *:after {
   box-sizing: inherit;
-}
+} */
 
 .flex-container {
   display: flex;
@@ -20,13 +20,24 @@ html {
   padding: 20px;
   font-size: 30px;
 }
-
-nav ul {
-  text-align: center;
+.navbar {
   position: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  width: 100%;
+  padding: 125px;
+}
+nav ul {
+  text-align: left;
+  position: fixed;
+  top: 0;
   width: 100%;
   background-color: lightgray;
   height: auto;
+  margin:0;
 }
 
 nav ul li {
@@ -34,6 +45,7 @@ nav ul li {
   margin: 20px;
   margin-bottom: 15px;
   margin-top: 5px;
+  text-transform: uppercase;
 }
 
 nav ul li a {
@@ -155,22 +167,22 @@ a:focus {
   font-size: 110%
 }
 
-nav {
+/* nav {
   padding: 0px;
   margin: 0px;
   padding-right: 25px;
-}
+} */
 
-nav ul li {
+/* nav ul li {
   margin-bottom: 8px;
   text-transform: uppercase;
-}
-
+} */
+/* 
 ul {
   padding: 0px;
   margin: 0px;
   list-style-type: none;
-}
+} */
 
 main {
   padding: 0px;
@@ -192,9 +204,7 @@ main {
   flex-direction: row;
 }
 
-#content {
-  width: 100%;
-}
+
 
 #content-BI {
   width: 100%;
@@ -214,7 +224,7 @@ main {
   padding: 1rem;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   nav ul {
     text-align: center;
   }
@@ -226,8 +236,10 @@ main {
   }
 }
 
-.cv {
-  height: 100vh;
-  padding: 50px;
-  /* position: reltive; */
+/* @media screen and (max-width: 600px) {
+  ul.nav li.right,
+  ul.nav li {
+    float: none;
+  }
 }
+ */
