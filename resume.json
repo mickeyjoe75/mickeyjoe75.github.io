@@ -8,11 +8,11 @@
     "website": "http://joemanuel.info",
     "summary": "Joe is a globally experienced Management Consultant with expertise in Data Analytics and Data Visualisation and a highly driven Full Stack Software Developer with extensive multi site, multi platform, off-shoring & outsourcing experience.  Proven track record in implementing and driving best in class Business Intelligence applications,  Workforce planning applications & Telephony systems for blue-chip companies across Europe & Asia over a career spanning 19 years.\n He is keen to work in a company where he can utilise his advanced knowledge of Databases and Data Analysis skills along with the newly acquired skills around Full Stack Software Development.",
     "location": {
-      "address": "Dunfermline",
+      "address": "Eastleigh",
       "postalCode": "",
-      "city": "Edinburgh",
+      "city": "Southampton",
       "countryCode": "UK",
-      "region": "Scotland"
+      "region": "South East"
     },
     "profiles": [{
         "network": "GitHub",
@@ -46,7 +46,20 @@
       }
     ]
   },
-  "work": [{
+  "work": 
+  [
+    
+    {
+      "company": "XE.com (Part of Euronet Worldwide Group",
+      "position": "Senior Business Intelligence Developer",
+      "website": "https://www.xe.com/",
+      "startDate": "2019/09/01",
+      "endDate": "",
+      "summary": "Business Intelligence solutions and applications development using Tableau,AWS(Amazon Redshift & Athena) Power BI, MS SQL Server, SSRS & SSIS for Global support for XE.com and Euronet World Wide",
+      "highlights": []
+    },
+
+    {
       "company": "Numero Uno Apps Development Ltd. & SMJ Business Services Ltd. ",
       "position": "Founder & Managing Director",
       "website": "http://numerounoapps.com/",
