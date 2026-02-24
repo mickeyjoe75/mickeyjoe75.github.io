@@ -36,11 +36,6 @@
         "url": "https://stackoverflow.com/users/story/9473322"
       },
       {
-        "network": "Company Site",
-        "username": "@company",
-        "url": "http://numerounoapps.com/"
-      },
-      {
         "network": "Twitter",
         "username": "@MjMSquawk",
         "url": "https://stocktwits.com/MjMSquawk"
@@ -70,10 +65,10 @@
         "An Android todo list app \"proActiveScheduler\" "
       ]
     },
-        {
-      "company": "Numero Uno Apps Development Ltd. & SMJ Business Services Ltd. ",
+    {
+      "company": "SMJ Business Services Ltd.",
       "position": "Founder & Managing Director",
-      "website": "http://numerounoapps.com/",
+      "website": "https://smjbusinesservices.com/",
       "startDate": "2014/07/01",
       "endDate": "",
       "summary": "Strategic Consulting in Business Intelligence (Tableau,SQL)& MIS, Website Hosting&Development, Mobile Apps Development, Resource/Capacity Planning, Advanced Excel Modelling, WFM Optimisation(Verint), Shift/Staffing Reviews/Optimisation, Dialler/Data Strategy, Project Management.",
@@ -223,7 +218,6 @@
         "MongoDB",
         "SQLite",
         "MS sql server"
-
       ]
     },
     {
